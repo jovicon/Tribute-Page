@@ -1,3 +1,22 @@
 /* hoja de estilos */
 
+.figure {
+  margin: 0 15px;
+  padding:15px;
+  background-color:#fff;
+  border: solid 1px #ccc;
+  border-radius:4px;
+}
+
+span.bold {
+  font-weight: bold;
+}
+
+p.footer-text {
+  font:bold 15px arial;
+}
+
+.footer-margin {
+  margin-top:75px;
+}
 /* end hoja de estilos */
